@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\bin\Debug\netcoreapp3.1\RamdomLetter.exe
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\bin\Debug\netcoreapp3.1\RamdomLetter.deps.json
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\bin\Debug\netcoreapp3.1\RamdomLetter.runtimeconfig.json
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\bin\Debug\netcoreapp3.1\RamdomLetter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\bin\Debug\netcoreapp3.1\RamdomLetter.dll
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\bin\Debug\netcoreapp3.1\RamdomLetter.pdb
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.dll
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.pdb
+C:\Users\opilane\source\repos\Week7Assignments\RamdomLetter\obj\Debug\netcoreapp3.1\RamdomLetter.genruntimeconfig.cache
